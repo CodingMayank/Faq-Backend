@@ -1,0 +1,22 @@
+{
+  "name": "sdk",
+  "version": "1.0.0",
+  "main": "rollup.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "uuid": "^14.0.0"
+  },
+  "devDependencies": {
+    "rollup": "^4.60.4",
+    "rollup-plugin-typescript2": "^0.37.0",
+    "terser": "^5.48.0",
+    "tslib": "^2.8.1",
+    "typescript": "^6.0.3"
+  }
+}
